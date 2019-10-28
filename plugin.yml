@@ -1,0 +1,23 @@
+name: Yoisho
+main: me.rebeltrooper.yoisho.Yoisho
+author: RebelTrooper
+version: 1.0
+commands:
+ warp:
+  description: Warp to a another location!
+ warps:
+  description: See a list of warps
+ setwarp:
+  description: Set a new warp!
+ delwarp:
+  description: Delete a warp!
+ setpermwarp:
+  description: Set a permanent warp!
+ firstspawnpoint:
+  description: Set the server's first spawn point!
+ addpermission:
+  description: Set the server's first spawn point!
+ removepermission:
+  description: Set the server's first spawn point!
+ viewwhitelist:
+  description: Set the server's first spawn point!
