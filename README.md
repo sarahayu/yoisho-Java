@@ -13,11 +13,10 @@ Commands are:
 
 ## Screenshots
 ![Example warps page](https://github.com/sarahayu/yoisho-Java/blob/master/screenshots/warps.png?raw=true)
-
 *Example warps page*
+
 ![Warp message](https://github.com/sarahayu/yoisho-Java/blob/master/screenshots/warped.png?raw=true)
-
 *Warp message*
-![Private warps feature](https://github.com/sarahayu/yoisho-Java/blob/master/screenshots/private-warps.png?raw=true)
 
+![Private warps feature](https://github.com/sarahayu/yoisho-Java/blob/master/screenshots/private-warps.png?raw=true)
 *Private warps feature*
